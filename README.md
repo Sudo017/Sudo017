@@ -2,7 +2,7 @@
 
 **Computer Engineering Student | Network & IT Infrastructure**
 
-I'm a 3rd-year Computer Engineering student at ESPRIT (École Supérieure Privée d'Ingénierie et de Technologie) in Tunisia, specializing in Cloud & Cybersecurity. I'm passionate about designing robust network architectures, implementing routing protocols, and deploying scalable IT infrastructure.
+I'm a 3rd-year Computer Engineering student at ESPRIT (École Supérieure Privée d'Ingénierie et de Technologie) in Tunisia. I'm passionate about designing robust network architectures, implementing routing protocols, and deploying scalable IT infrastructure.
 
 I am actively seeking a **Summer 2026 Internship** in Network Engineering or IT Infrastructure in Tunisia or Europe.
 
