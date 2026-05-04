@@ -110,10 +110,11 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
 <div align="center">
 
 <a href="https://github.com/PI-DEV-JAVA/pi-dev-web">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PI-DEV-JAVA&repo=pi-dev-web&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&hide_border=false" />
+<img src="https://img.shields.io/badge/🏆_Talentos_Platform-PI--DEV--JAVA%2Fpi--dev--web-58a6ff?style=for-the-badge&logo=symfony&logoColor=white&labelColor=0d1117" />
 </a>
+&nbsp;
 <a href="https://github.com/Sudo017/gns3-network-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudo017&repo=gns3-network-project&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&hide_border=false" />
+<img src="https://img.shields.io/badge/🌐_Enterprise_Network-Sudo017%2Fgns3--network--project-1f6feb?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
@@ -237,8 +238,14 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
 
 <div align="center">
 <a href="https://github.com/Sudo017">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sudo017&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb&include_all_commits=true&count_private=true&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo017&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Sudo017&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=21600" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sudo017&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=21600" alt="Sudo017's GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sudo017&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8&cache_seconds=21600" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sudo017&layout=compact&langs_count=8&cache_seconds=21600" alt="Top Languages"/>
+  </picture>
 </a>
 </div>
 
@@ -256,17 +263,6 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
 <div align="center">
   <a href="https://github.com/Sudo017">
     <img src="https://github-profile-trophy.vercel.app/?username=Sudo017&theme=darkhub&no-bg=true&no-frame=false&column=7&margin-w=10&margin-h=10" alt="Sudo017's Trophies"/>
-  </a>
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## ⚡ &nbsp;Contribution Graph
-
-<div align="center">
-  <a href="https://github.com/Sudo017">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudo017&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Sudo017's%20Contribution%20Graph" alt="Sudo017's Contribution Graph"/>
   </a>
 </div>
 
@@ -320,7 +316,10 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;&nbsp;
 <a href="mailto:ayoub.hamed@esprit.tn">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/ESPRIT_Mail-ayoub.hamed@esprit.tn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="ESPRIT Email"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:ayoubhamed111@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ayoubhamed111@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Sudo017" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -332,12 +331,11 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudo017/Sudo017/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudo017/Sudo017/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Sudo017/Sudo017/output/github-snake-dark.svg" />
-</picture>
+<!-- SNAKE ANIMATION - Will appear after the GitHub Action runs for the first time -->
+<!-- To activate: Go to your repo → Actions tab → "Generate Snake Animation" → Run workflow -->
+<a href="https://github.com/Sudo017">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudo017&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" alt="Sudo017's Activity"/>
+</a>
 
 </div>
 
