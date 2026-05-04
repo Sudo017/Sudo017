@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Ayoub%20Hamed&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Network%20Engineer%20%7C%20Infrastructure%20Architect%20%7C%20ESPRIT&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Ayoub%20Hamed&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Network%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ESPRIT&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
 
 <!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%94%A7+Building+Networks+That+Never+Sleep;%F0%9F%8C%90+From+Subnets+to+Full+Enterprise+Topologies;%F0%9F%9B%A1%EF%B8%8F+Securing+Infrastructure%2C+One+ACL+at+a+Time;%F0%9F%93%A1+OSPF+%7C+VPN+%7C+VLAN+%7C+NAT+%7C+Automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%94%A7+Building+Networks+That+Never+Sleep;%F0%9F%8C%90+From+Subnets+to+Full+Enterprise+Topologies;%F0%9F%9B%A1%EF%B8%8F+Securing+Infrastructure%2C+One+ACL+at+a+Time;%F0%9F%92%BB+Full-Stack+Dev+%7C+Symfony+%7C+JavaFX+%7C+TensorFlow.js" alt="Typing SVG" /></a>
 
 <!-- PROFILE BADGES -->
 <br/>
@@ -16,14 +16,16 @@
 
 </div>
 
+---
+
 <!-- ABOUT ME SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="30"/> &nbsp;About Me
+## 🧑‍💻 &nbsp;About Me
 
 ```yaml
 name: Ayoub Hamed
 location: Tunis, Tunisia 🇹🇳
 education: 3rd Year Computer Engineering @ ESPRIT
-role: Network Engineer & IT Infrastructure Enthusiast
+role: Network Engineer & Full-Stack Developer
 certification: Cisco CCNA 200-301 (In Progress)
 internship: "Networking & IT Security Intern @ 3S – Standard Sharing Software (2024)"
 goal: "Summer 2026 Internship — Network Engineering / IT Infrastructure"
@@ -31,21 +33,19 @@ languages: ["Arabic (Native)", "English (Fluent)", "French (Professional)"]
 fun_fact: "I debug networks the way others debug code — with patience and Wireshark 🦈"
 ```
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+<br/>
 
-- 🔭 **Currently working on** Enterprise-grade network simulations in GNS3
+- 🔭 **Currently working on** Enterprise-grade network simulations & full-stack platforms
 - 🎯 **Pursuing** Cisco CCNA 200-301 Certification
 - 🌱 **Learning** Cloud Infrastructure, Network Automation & SDN
-- 💬 **Ask me about** OSPF, VLANs, VPN tunnels, Linux servers
+- 💬 **Ask me about** OSPF, VLANs, VPN tunnels, Symfony, Linux servers
 - 📫 **Reach me at** [ayoub.hamed@esprit.tn](mailto:ayoub.hamed@esprit.tn)
 - ⚡ **Fun fact:** I once built a full enterprise network with VPN tunnels... in a virtual lab at 3AM ☕
-
-<br clear="right"/>
 
 ---
 
 <!-- TECH STACK SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> &nbsp;Tech Arsenal
+## 🛠️ &nbsp;Tech Arsenal
 
 <div align="center">
 
@@ -63,7 +63,7 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
 <img src="https://img.shields.io/badge/VLSM-00897B?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Infrastructure
+### 🖥️ Tools & Infrastructure
 <p>
 <img src="https://img.shields.io/badge/GNS3-3DBE29?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
@@ -73,7 +73,6 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/NFS-00599C?style=for-the-badge&logo=files&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
@@ -83,12 +82,22 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
+<img src="https://img.shields.io/badge/Symfony_6.4-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap_5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### 🧪 Testing & Quality
+<p>
+<img src="https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHPStan-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/391_Tests-238636?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/617_Assertions-1f6feb?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 </p>
 
 </div>
@@ -96,75 +105,135 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
 ---
 
 <!-- FEATURED PROJECTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Sudo017/gns3-network-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudo017&repo=gns3-network-project&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&hide_border=false" />
-</a>
 <a href="https://github.com/PI-DEV-JAVA/pi-dev-web">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=PI-DEV-JAVA&repo=pi-dev-web&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&hide_border=false" />
+</a>
+<a href="https://github.com/Sudo017/gns3-network-project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudo017&repo=gns3-network-project&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&hide_border=false" />
 </a>
 
 </div>
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="50%">
+<!-- PROJECT 1: TALENTOS -->
+<details>
+<summary><b>🏆 Talentos Platform — Full-Stack HR & Talent Management (Symfony 6.4)</b></summary>
+<br/>
 
-### 🌐 Enterprise Network Simulation
-> **Key Project** — GNS3 · OSPF · NAT · VPN · Prometheus/Grafana
+> **Module Owner: User & Profile Management** — Built on **Symfony 6.4 · PHP 8.1 · MySQL · TensorFlow.js · Groq API · Google OAuth**
 
-- 🏗️ Multi-department enterprise topology with full OSPF routing
-- 🔐 Site-to-site VPN tunnels with NAT traversal
-- 📊 Complete monitoring stack: Prometheus + Grafana dashboards
-- 🖥️ Linux service deployment: Apache, MySQL, NFS file sharing
-- 🌍 WAN simulation via UDP tunneling across segments
+<table>
+<tr><td>
 
-</td>
-<td width="50%">
+#### 🔐 Authentication & Security
+- Email registration with **OTP-style email verification tokens**
+- **Google OAuth 2.0** login — auto-creates account + profile on first sign-in
+- **Account lockout system** — auto-deactivation after 5 failed attempts via `LoginSubscriber` (event-driven), with remaining attempts warning
+- Token-based **password reset flow** with expiry
 
-### 💻 Full-Stack Integrated System
-> **Team Lead** — JavaFX · Symfony · MySQL · OAuth · Face Recognition
+#### 👤 Profile & AI Face Check
+- Complete profile editor — name, contact, professional info, CV upload, skills, bio
+- **AI-powered profile photo validation** using `face-api.js` (TensorFlow.js) — runs **100% client-side**, detects faces via TinyFaceDetector, validates single face present, confidence scoring, expression analysis
+- **Cropper.js** integration for image crop/zoom
+- Skills autocomplete — internal API (`/api/skills/search`) serving 100+ tech & soft skills with tag-style UI
+- **Profile completeness indicator** + profile views tracking (LinkedIn-style)
 
-- 🔗 Desktop/Web app with shared database architecture
-- 🔑 Multi-factor auth: Email OTP + Google OAuth + Face Recognition
-- 🔄 REST API integration between JavaFX client & Symfony backend
-- 🏗️ Led team integration and deployment pipeline
+#### 🌐 Connect / Sync — Social Networking
+- People discovery page — browse users with completed profiles
+- **Connection request system** — send/accept/decline (LinkedIn-style invitations)
+- **Messenger-style chat widget** — floating on all pages, real-time messaging with contacts, unread badges, full-screen mode
+- **HR messaging** — admin can message candidates directly from back office
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</td><td>
 
-### 🤖 Embedded System Control Interface
-> Qt · C++ · Arduino
+#### 🔔 Notifications System
+- JS polling architecture — `setInterval` fetches notifications every 30s
+- Animated notification bell with **pulsing unread badge**
+- LinkedIn-style dropdown panel with mark-as-read (individual + bulk)
+- **Dual notification streams** — separate feeds for candidates (FO) and admins (BO)
+- Auto-triggered on key events: new application, interview scheduled, enrollment, connection request
+
+#### 🎫 Support Tickets
+- Full ticket lifecycle (`OPEN → IN_PROGRESS → RESOLVED/CLOSED`)
+- Priority levels (`LOW/MEDIUM/HIGH/URGENT`) with category classification
+- **Threaded reply system** between users and admins
+
+#### 🤖 AI Chatbot Assistant
+- Floating AI widget on all front-office pages with animated "online" pulse
+- **Groq LPU API** integration for sub-2s responses
+- Context-aware platform assistance with rate limiting
+- Gradient bubble UI with typing animation
+
+#### 🎨 Full UI/UX Design
+- **Front Office:** Modern light theme with glassmorphism navbar, gradient accents, card hover animations
+- **Back Office:** Dark admin panel with sidebar nav, glowing borders, stat cards
+- **Driver.js guided tours** — interactive onboarding for both FO and BO
+- Micro-animations across all interactive elements
+
+#### 🌍 Internationalization (FR/EN)
+- **750+ translation keys** in `messages.fr.yaml` + `messages.en.yaml`
+- `LocaleSubscriber` for session-based locale persistence
+- FR/EN flag toggle in navbar and sidebar
+
+</td></tr>
+</table>
+
+**Testing:** `391 unit tests` / `617 assertions` (PHPUnit) · PHPStan Level 2 — 0 errors · Doctrine Doctor DB diagnostics
+
+</details>
+
+<br/>
+
+<!-- PROJECT 2: NETWORK -->
+<details>
+<summary><b>🌐 Enterprise Network Simulation — Multi-Department Campus Infrastructure (GNS3)</b></summary>
+<br/>
+
+> **Key Project** — GNS3 · OSPF · NAT · VPN · Prometheus/Grafana · Apache · MySQL · NFS
+
+- 🏗️ Designed a full **multi-department enterprise topology** with OSPF routing, NAT, VPN tunnels, and VLSM addressing
+- 📊 Deployed a complete **monitoring stack**: Prometheus + Grafana dashboards
+- 🖥️ Linux service deployment: **Apache web server**, MySQL database, NFS file sharing
+- 🌍 Simulated **WAN-like inter-network communication** via UDP tunneling across segmented departments
+- 🔐 Network security: ACLs, SSH hardening, fault isolation with ping & traceroute diagnostics
+
+</details>
+
+<br/>
+
+<!-- PROJECT 3: EMBEDDED -->
+<details>
+<summary><b>🤖 Embedded System Control Interface — Qt · C++ · Arduino</b></summary>
+<br/>
 
 - 📡 Real-time serial communication with Arduino hardware
 - 🖥️ Qt desktop interface for hardware monitoring & control
 - ⚡ Low-latency data exchange protocol implementation
 
-</td>
-<td width="50%">
+</details>
 
-### 🎮 2D Game — Spicy Land (SDL)
-> C · SDL 1.2
+<br/>
+
+<!-- PROJECT 4: GAME -->
+<details>
+<summary><b>🎮 2D Game — Spicy Land (C · SDL 1.2)</b></summary>
+<br/>
 
 - 🕹️ Complete 2D game with custom event loop
 - 💥 Collision detection & physics-based game logic
 - 🎨 Sprite rendering & animation system
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
 <!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 <a href="https://github.com/Sudo017">
@@ -177,7 +246,7 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
 
 <div align="center">
   <a href="https://github.com/Sudo017">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudo017&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&hide_border=false" alt="Sudo017's Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=Sudo017&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&hide_border=false" alt="Sudo017's Streak"/>
   </a>
 </div>
 
@@ -193,7 +262,7 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
 ---
 
 <!-- ACTIVITY GRAPH -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="30"/> &nbsp;Contribution Graph
+## ⚡ &nbsp;Contribution Graph
 
 <div align="center">
   <a href="https://github.com/Sudo017">
@@ -204,88 +273,66 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
 ---
 
 <!-- CERTIFICATION SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30"/> &nbsp;Education & Certifications
+## 🎓 &nbsp;Education & Certifications
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-<br/>
-<img src="https://img.shields.io/badge/ESPRIT-Computer_Engineering-1f6feb?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<br/><br/>
-<strong>Cycle Ingénieur — 3rd Year</strong><br/>
-<sub>Sep 2022 — Jun 2028</sub><br/>
-<sub>📍 Ariana, Tunisia</sub><br/><br/>
-<em>Key Courses: Computer Networks · OS · Databases · OOP · Software Engineering</em>
-<br/><br/>
-</td>
-<td align="center" width="50%">
-<br/>
-<img src="https://img.shields.io/badge/Cisco-CCNA_200--301-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<br/><br/>
-<strong>Cisco Certified Network Associate</strong><br/>
-<sub>🔄 In Progress</sub><br/><br/>
-<em>Network Fundamentals · Routing & Switching · Security · Automation</em>
-<br/><br/>
-</td>
-</tr>
-</table>
+| 🏫 Education | 📜 Certification |
+|:---:|:---:|
+| <img src="https://img.shields.io/badge/ESPRIT-Computer_Engineering-1f6feb?style=for-the-badge"/> | <img src="https://img.shields.io/badge/Cisco-CCNA_200--301-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> |
+| **Cycle Ingénieur — 3rd Year** | **Cisco Certified Network Associate** |
+| Sep 2022 — Jun 2028 | 🔄 In Progress |
+| 📍 Ariana, Tunisia | Network Fundamentals · Routing & Switching |
+| *Networks · OS · Databases · OOP · Software Eng.* | *Security · Automation · IP Services* |
 
 </div>
 
 ---
 
 <!-- EXPERIENCE SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30"/> &nbsp;Professional Experience
+## 💼 &nbsp;Professional Experience
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  🏢  Networking & IT Security Intern                                       ║
-║  📍  3S – Standard Sharing Software · Tunis, Tunisia                        ║
-║  📅  Jul – Aug 2024                                                         ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  ▸ Designed IP addressing schemes using VLSM subnetting                     ║
-║  ▸ Configured VLANs, trunk links & inter-VLAN routing                       ║
-║  ▸ Deployed DHCP and DNS services across simulated topologies               ║
-║  ▸ Implemented OSPF & RIP dynamic routing protocols                         ║
-║  ▸ Secured network access with ACLs and SSH hardening                       ║
-║  ▸ Isolated faults using ping & traceroute diagnostics                      ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+| | |
+|:---|:---|
+| **🏢 Role** | Networking & IT Security Intern |
+| **📍 Company** | 3S – Standard Sharing Software · Tunis, Tunisia |
+| **📅 Period** | Jul – Aug 2024 |
+| **▸** | Designed IP addressing schemes using VLSM subnetting |
+| **▸** | Configured VLANs, trunk links & inter-VLAN routing |
+| **▸** | Deployed DHCP and DNS services across simulated topologies |
+| **▸** | Implemented OSPF & RIP dynamic routing protocols |
+| **▸** | Secured network access with ACLs and SSH hardening |
+| **▸** | Isolated faults using ping & traceroute diagnostics |
 
 </div>
 
 ---
 
 <!-- CONNECT SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"/> &nbsp;Let's Connect
+## 🤝 &nbsp;Let's Connect
 
 <div align="center">
 <br/>
 
 <a href="https://www.linkedin.com/in/ayoub-hamed1/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;&nbsp;
 <a href="mailto:ayoub.hamed@esprit.tn">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Sudo017" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header"/>
 
 ### 💡 *"The network is the computer."* — John Gage
 
 <br/>
 
+<!-- SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudo017/Sudo017/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudo017/Sudo017/output/github-snake.svg" />
