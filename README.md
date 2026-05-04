@@ -110,7 +110,11 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
 <div align="center">
 
 <a href="https://github.com/PI-DEV-JAVA/pi-dev-web">
-<img src="https://img.shields.io/badge/🏆_Talentos_Platform-PI--DEV--JAVA%2Fpi--dev--web-58a6ff?style=for-the-badge&logo=symfony&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🏆_Talentos_(Symfony)-PI--DEV--JAVA%2Fpi--dev--web-58a6ff?style=for-the-badge&logo=symfony&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/PI-DEV-JAVA/pi-dev-desktop">
+<img src="https://img.shields.io/badge/💻_Talentos_(JavaFX)-PI--DEV--JAVA%2Fpi--dev--desktop-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://github.com/Sudo017/gns3-network-project">
@@ -242,11 +246,25 @@ fun_fact: "I debug networks the way others debug code — with patience and Wire
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Sudo017&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=21600" />
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sudo017&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=21600" alt="Sudo017's GitHub Stats"/>
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sudo017&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8&cache_seconds=21600" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sudo017&layout=compact&langs_count=8&cache_seconds=21600" alt="Top Languages"/>
-  </picture>
 </a>
+</div>
+
+<br/>
+
+### 💻 Languages Across All Projects
+> *Includes contributions to organization repos ([PI-DEV-JAVA](https://github.com/PI-DEV-JAVA))*
+
+<div align="center">
+
+| Language | Usage | Projects |
+|:---|:---|:---|
+| <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> **PHP / Symfony** | `████████████████░░░░` **35%** | [pi-dev-web](https://github.com/PI-DEV-JAVA/pi-dev-web) — Talentos Platform (Symfony 6.4) |
+| <img src="https://img.shields.io/badge/Twig-BACF29?style=flat-square&logo=symfony&logoColor=black"/> **Twig** | `██████████████░░░░░░` **25%** | [pi-dev-web](https://github.com/PI-DEV-JAVA/pi-dev-web) — Templating engine |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> **Java / JavaFX** | `██████████░░░░░░░░░░` **20%** | [pi-dev-desktop](https://github.com/PI-DEV-JAVA/pi-dev-desktop) — Desktop client |
+| <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> **C / C++** | `██████░░░░░░░░░░░░░░` **10%** | [spicy_land](https://github.com/Sudo017/spicy_land) — SDL Game, Qt/Arduino |
+| <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white"/> **SQL** | `████░░░░░░░░░░░░░░░░` **5%** | Database schemas & queries across all projects |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> **JavaScript** | `████░░░░░░░░░░░░░░░░` **5%** | TensorFlow.js, face-api.js, front-end interactivity |
+
 </div>
 
 <br/>
