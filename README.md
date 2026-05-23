@@ -2,125 +2,118 @@
 
 # Ayoub Hamed
 
-**Computer Engineering Student · Network & Linux Infrastructure · CCNA 200-301 in progress**
+### Network Infrastructure · Linux Services · CCNA 200-301 in Progress
 
-I build practical network labs, validate them layer by layer, and document what breaks.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=building+labs+that+behave+like+real+networks;breaking+topologies+on+purpose;validating+routing%2C+switching%2C+services+and+security;documenting+the+fix%2C+not+just+the+result" alt="network operations typing line" />
 
+<br/>
+
+<a href="https://github.com/Sudo017">
+  <img src="https://img.shields.io/badge/GitHub-Sudo017-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" />
+</a>
 <a href="https://www.linkedin.com/in/ayoub-hamed1/">
-  <img src="https://img.shields.io/badge/LinkedIn-ayoub--hamed1-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Hamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" />
 </a>
 <a href="mailto:ayoub.hamed@esprit.tn">
-  <img src="https://img.shields.io/badge/Email-ayoub.hamed%40esprit.tn-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Sudo017">
-  <img src="https://img.shields.io/badge/GitHub-Sudo017-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Email-ayoub.hamed%40esprit.tn-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" />
 </a>
 
 </div>
 
 ---
 
-## Current signal
-
 ```yaml
-location: Tunis, Tunisia
-education: Computer Engineering @ ESPRIT
-certification: Cisco CCNA 200-301 — in progress
-target: Network Engineering / IT Infrastructure internship
-main_focus:
-  - Routing, switching, VLANs, STP/RSTP, OSPF, NAT, ACLs
-  - Linux services, monitoring, troubleshooting, documentation
-  - Systems reliability and security foundations
-working_style: "design -> configure -> break -> observe -> isolate -> restore -> document"
+profile:
+  role: "Computer Engineering Student @ ESPRIT"
+  location: "Tunis, Tunisia"
+  track: "Network Engineering / IT Infrastructure / Linux Systems"
+  certification: "Cisco CCNA 200-301 — in progress"
+  current_focus:
+    - "CCNA switching and routing labs"
+    - "Enterprise-style GNS3 topologies"
+    - "Linux service deployment and monitoring"
+    - "Structured troubleshooting and validation"
 ```
+
+## /whoami
+
+I build network infrastructure labs, stress them, break them, and bring them back to a working state.
+
+My strongest focus is **network engineering and Linux-based infrastructure**: routing, switching, subnetting, VLANs, OSPF, NAT, VPN concepts, DHCP/DNS, Linux services, monitoring, packet analysis, and documentation.
+
+I am currently preparing for **Cisco CCNA 200-301**, with a practical learning style built around labs, failure scenarios, show commands, Wireshark captures, and reproducible validation.
 
 ---
 
-## How I learn infrastructure
-
-```mermaid
-flowchart LR
-    A[Design the topology] --> B[Configure devices]
-    B --> C[Break or stress the network]
-    C --> D[Observe symptoms]
-    D --> E[Isolate the layer]
-    E --> F[Restore reachability]
-    F --> G[Document evidence]
-```
-
-I am not interested in only memorizing commands.  
-The goal is to understand why a packet does not move, where the control plane disagrees, and what proof confirms the fix.
-
----
-
-## Featured work
+## Featured Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### CCNA STP / Rapid PVST+ Exam Simulator
+### 🧠 CCNA STP / Rapid PVST+ Exam Simulator
 
 A browser-based exam simulator I built while preparing for CCNA switching topics.
 
-- 200-question STP-focused pool
-- Timed randomized exams
-- STP, PVST+, Rapid PVST+
-- Root election, port roles, states, guard features
-- IOS command questions
-- Topology and `show spanning-tree` analysis
+It focuses on **STP, PVST+, Rapid PVST+, root election, port roles/states, guard features, IOS commands, topology analysis, and `show spanning-tree` interpretation**.
 
-**Links:**  
-[Live simulator](https://sudo017.github.io/ccna-stp-exam-simulator/) · [Repository](https://github.com/Sudo017/ccna-stp-exam-simulator)
+<br/>
+
+<a href="https://sudo017.github.io/ccna-stp-exam-simulator/">
+  <img src="https://img.shields.io/badge/Launch%20Live%20Simulator-0A66FF?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+<a href="https://github.com/Sudo017/ccna-stp-exam-simulator">
+  <img src="https://img.shields.io/badge/View%20Repo-161b22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### Enterprise Network & Linux Infrastructure Simulation
+### 🌐 Enterprise Network & Linux Infrastructure Lab
 
-Enterprise-style GNS3 lab with routed zones, segmented departments, Linux service VMs, and monitoring.
+A multi-zone GNS3 infrastructure project with Cisco IOS routers, segmented networks, OSPF routing, NAT, VPN concepts, Linux service VMs, and monitoring.
 
-- 6-router OSPF backbone
-- VLANs, VLSM, NAT, VPN concepts
-- DHCP/DNS, Apache, MySQL, NFS
-- Prometheus/Grafana monitoring
-- Wireshark validation and troubleshooting notes
+Final validation involved tracing issues across **OSPF adjacencies, route propagation, UDP tunnels, DHCP gateways, VM IP settings, and Linux service status**.
 
-**Repository:**  
-[gns3-network-project](https://github.com/Sudo017/gns3-network-project)
+<br/>
+
+<a href="https://github.com/Sudo017/gns3-network-project">
+  <img src="https://img.shields.io/badge/View%20Network%20Project-1f6feb?style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### Talentos — AI-enabled HR Platform
+### 🏢 Talentos — AI-Enabled HR Platform
 
-Full-stack HR and talent management platform built with Symfony/MySQL and AI-assisted workflows.
+Full-stack HR and talent management platform built with **Symfony 6.4, PHP, MySQL, Doctrine, Groq/OpenRouter APIs, face-api.js, and TensorFlow.js**.
 
-- Candidate-job compatibility analysis
-- Groq/OpenRouter provider strategy
-- Profile and authentication flows
-- Skill categorization
-- Face validation with face-api.js / TensorFlow.js
+Worked on AI scoring workflows, profile enrichment, authentication flows, skills categorization, and client-side face validation.
 
-**Repositories:**  
-[Symfony web app](https://github.com/PI-DEV-JAVA/pi-dev-web) · [JavaFX desktop](https://github.com/PI-DEV-JAVA/pi-dev-desktop)
+<br/>
+
+<a href="https://github.com/PI-DEV-JAVA/pi-dev-web">
+  <img src="https://img.shields.io/badge/Web%20Platform-Symfony%206.4-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+</a>
+<a href="https://github.com/PI-DEV-JAVA/pi-dev-desktop">
+  <img src="https://img.shields.io/badge/Desktop%20Client-JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### Exam Distribution Center Management
+### 📦 Exam Distribution Center Platform
 
-Academic integrated project for secure exam-box assignment and tracking workflows.
+Integrated academic project for secure exam-box assignment and tracking.
 
-- Qt/C++ desktop application
-- Arduino integration
-- QR code scanning with ZXing
-- RFID identification
-- GPS-based box tracking
-- Serial communication
+Built with **Qt/C++, Arduino, QR scanning, RFID, GPS tracking, and serial communication** to support operational tracking workflows.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Qt%20%2F%20C%2B%2B-Desktop%20Control-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-IoT%20Layer-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
 </td>
 </tr>
@@ -128,80 +121,161 @@ Academic integrated project for secure exam-box assignment and tracking workflow
 
 ---
 
-## Technical stack
+## Infrastructure Stack
 
-| Area | Tools and concepts |
-|---|---|
-| **Networking** | TCP/IP, IPv4 subnetting, VLSM, VLANs, 802.1Q, STP/RSTP, OSPF, RIP, static routing, NAT, VPN concepts, DHCP/DNS, ACLs, SSH |
-| **Cisco / Labs** | Cisco IOS, GNS3, Packet Tracer, routing tables, trunks, inter-VLAN routing, connectivity validation |
-| **Linux / Services** | Linux administration, systemd, users/groups/permissions, Apache, MySQL, NFS, service logs |
-| **Monitoring / Validation** | Prometheus, Grafana, Wireshark, ping, traceroute, packet captures, structured test plans |
-| **Development** | Bash, Python, Git, C, C++, Java, PHP/Symfony, SQL, REST APIs |
-| **Security foundations** | Network segmentation, ACL-based filtering, SSH hardening, Linux permissions, packet-level validation |
+<table>
+<tr>
+<td width="25%">
+
+### Routing & Switching
+`TCP/IP`  
+`IPv4 / VLSM`  
+`VLANs`  
+`802.1Q`  
+`Inter-VLAN Routing`  
+`OSPF / RIP`  
+`Static Routing`  
+`NAT`  
+`VPN Concepts`  
+`STP / RSTP`
+
+</td>
+<td width="25%">
+
+### Systems & Services
+`Linux`  
+`systemd`  
+`Users / Groups`  
+`Permissions`  
+`Apache`  
+`MySQL`  
+`NFS`  
+`DHCP / DNS`  
+`Service Logs`  
+`Prometheus`  
+`Grafana`
+
+</td>
+<td width="25%">
+
+### Troubleshooting
+`Wireshark`  
+`ping`  
+`traceroute`  
+`show commands`  
+`Routing tables`  
+`Packet captures`  
+`Reachability tests`  
+`Layer 2/3 isolation`  
+`Change validation`  
+`Technical docs`
+
+</td>
+<td width="25%">
+
+### Development
+`Bash`  
+`Python`  
+`Git`  
+`C / C++`  
+`Java / JavaFX`  
+`PHP / Symfony`  
+`SQL`  
+`REST APIs`  
+`Algorithms`  
+`Data Structures`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Lab Method
+
+```text
+design the topology
+        ↓
+build the addressing plan
+        ↓
+configure routing / switching / services
+        ↓
+break something intentionally or hit a real failure
+        ↓
+isolate the layer
+        ↓
+verify with commands + captures
+        ↓
+document the fix
+```
+
+I care about the part most people skip: **validation**.
+
+A network is not working because the diagram looks clean.  
+It is working when routes propagate correctly, hosts receive the right gateways, services respond, captures prove the traffic path, and the failure can be reproduced and fixed again.
 
 ---
 
 ## Experience
 
-### Networking & IT Security Intern — 3S, Standard Sharing Software  
-**Jul 2024 – Aug 2024 · Tunis, Tunisia**
+### Networking & IT Security Intern — 3S, Standard Sharing Software
+`Jul 2024 – Aug 2024 · Tunis, Tunisia`
 
 - Designed VLSM-based IPv4 addressing plans for segmented lab networks.
-- Configured and validated VLANs, 802.1Q trunks, inter-VLAN routing, DHCP/DNS, OSPF/RIP, and static routes.
-- Verified reachability using traceroute, routing-table checks, and Wireshark captures.
+- Configured and validated VLANs, trunks, inter-VLAN routing, DHCP/DNS, OSPF/RIP, and static routes.
+- Used traceroute, routing-table checks, and Wireshark captures to verify reachability.
 - Implemented ACL-based segmentation and SSH hardening.
-- Documented configurations, test results, failure evidence, and troubleshooting steps.
+- Documented configurations, validation checks, and failure/fix evidence.
 
 ---
 
-## What I am sharpening right now
+## Current Direction
 
 ```text
-CCNA 200-301
-├── Layer 2 switching
-│   ├── STP / RSTP / Rapid PVST+
-│   ├── VLANs and trunks
-│   └── EtherChannel basics
-├── Routing
-│   ├── Static routing
-│   ├── OSPF fundamentals
-│   └── Default routes and path selection
-├── Operations
-│   ├── Troubleshooting methodology
-│   ├── Packet analysis
-│   └── Documentation quality
-└── Next direction
-    ├── Linux infrastructure reliability
-    ├── Cloud foundations
-    └── Network automation
+2026 target:
+  - complete CCNA 200-301 preparation
+  - keep building infrastructure-focused projects
+  - strengthen Linux administration and monitoring
+  - move toward network engineering / infrastructure reliability / security foundations
 ```
+
+I am especially interested in internships or junior opportunities around:
+
+`Network Engineering` · `IT Infrastructure` · `Linux Systems` · `Monitoring` · `Security Foundations` · `Operations`
 
 ---
 
 ## Education
 
-**ESPRIT — École Supérieure Privée d'Ingénierie et de Technologie**  
-Cycle Ingénieur, Computer Engineering — expected 2028
+**ESPRIT — Ecole Supérieure Privée d'Ingénierie et de Technologie**  
+Cycle Ingénieur, Computer Engineering · Expected 2028
 
-Relevant coursework: computer networks, operating systems, databases, object-oriented programming, software engineering, data structures.
+Relevant coursework: Computer Networks, Operating Systems, Databases, Object-Oriented Programming, Software Engineering, Data Structures.
 
 ---
 
-## GitHub snapshot
+## Connect
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Sudo017&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo017&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
+<a href="https://www.linkedin.com/in/ayoub-hamed1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ayoub.hamed@esprit.tn">
+  <img src="https://img.shields.io/badge/Email-ayoub.hamed%40esprit.tn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Sudo017">
+  <img src="https://img.shields.io/badge/GitHub-Sudo017-161b22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## Contact
+<div align="center">
 
-- LinkedIn: [linkedin.com/in/ayoub-hamed1](https://www.linkedin.com/in/ayoub-hamed1/)
-- Email: [ayoub.hamed@esprit.tn](mailto:ayoub.hamed@esprit.tn)
-- GitHub: [github.com/Sudo017](https://github.com/Sudo017)
+```text
+build → break → inspect → fix → document
+```
 
----
+</div>
