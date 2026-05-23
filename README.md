@@ -4,19 +4,29 @@
 
 ### Network Infrastructure · Linux Services · CCNA 200-301 in Progress
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=building+labs+that+behave+like+real+networks;breaking+topologies+on+purpose;validating+routing%2C+switching%2C+services+and+security;documenting+the+fix%2C+not+just+the+result" alt="network operations typing line" />
-
 <br/>
 
-<a href="https://github.com/Sudo017">
-  <img src="https://img.shields.io/badge/GitHub-Sudo017-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" />
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=650&height=45&lines=building+labs+that+behave+like+real+networks;breaking+topologies+to+understand+how+they+fail;routing+%2B+switching+%2B+linux+services+%2B+validation"
+    alt="Typing SVG"
+  />
 </a>
-<a href="https://www.linkedin.com/in/ayoub-hamed1/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Hamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" />
-</a>
-<a href="mailto:ayoub.hamed@esprit.tn">
-  <img src="https://img.shields.io/badge/Email-ayoub.hamed%40esprit.tn-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" />
-</a>
+
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Sudo017">
+    <img src="https://img.shields.io/badge/GitHub-Sudo017-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayoub-hamed1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Hamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayoub.hamed@esprit.tn">
+    <img src="https://img.shields.io/badge/Email-ayoub.hamed%40esprit.tn-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -128,6 +138,7 @@ Built with **Qt/C++, Arduino, QR scanning, RFID, GPS tracking, and serial commun
 <td width="25%">
 
 ### Routing & Switching
+
 `TCP/IP`  
 `IPv4 / VLSM`  
 `VLANs`  
@@ -143,6 +154,7 @@ Built with **Qt/C++, Arduino, QR scanning, RFID, GPS tracking, and serial commun
 <td width="25%">
 
 ### Systems & Services
+
 `Linux`  
 `systemd`  
 `Users / Groups`  
@@ -159,6 +171,7 @@ Built with **Qt/C++, Arduino, QR scanning, RFID, GPS tracking, and serial commun
 <td width="25%">
 
 ### Troubleshooting
+
 `Wireshark`  
 `ping`  
 `traceroute`  
@@ -174,6 +187,7 @@ Built with **Qt/C++, Arduino, QR scanning, RFID, GPS tracking, and serial commun
 <td width="25%">
 
 ### Development
+
 `Bash`  
 `Python`  
 `Git`  
@@ -219,6 +233,7 @@ It is working when routes propagate correctly, hosts receive the right gateways,
 ## Experience
 
 ### Networking & IT Security Intern — 3S, Standard Sharing Software
+
 `Jul 2024 – Aug 2024 · Tunis, Tunisia`
 
 - Designed VLSM-based IPv4 addressing plans for segmented lab networks.
